@@ -1,0 +1,21 @@
+{
+  "name": "react-calculator",
+  "version": "1.0.0",
+  "description": "A modern calculator app built with React",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx live-server --port=3000",
+    "build": "echo 'Build complete'"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.22.0",
+    "@babel/preset-react": "^7.22.0"
+  },
+  "keywords": ["react", "calculator", "javascript"],
+  "author": "",
+  "license": "MIT"
+}
